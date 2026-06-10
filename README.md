@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Express-282c3d?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express">
   </p>
   <p>
-    <a href="[YOUR_LIVE_LINK]"><strong>🚀 Live Demo</strong></a>
+    <a href="https://6a292df1cb925b8a93ff3d0d--singular-narwhal-5d4796.netlify.app/"><strong>🚀 Live Demo</strong></a>
   </p>
 </div>
 
