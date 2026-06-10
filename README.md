@@ -4,9 +4,9 @@
   <p>A Spotify-inspired music streaming application built with Google Antigravity IDE</p>
   <p>
     <img src="https://img.shields.io/badge/Antigravity-282c3d?style=for-the-badge&logo=google&logoColor=4285F4" alt="Antigravity">
-    <img src="https://img.shields.io/badge/React-282c3d?style=for-the-badge&logo=react&logoColor=61dafb" alt="React">
-    <img src="https://img.shields.io/badge/Node.js-282c3d?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express-282c3d?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express">
+    <img src="https://img.shields.io/badge/React-282c3d?style=for-the-badge&logo=react&logoColor=61dafb" alt="Html">
+    <img src="https://img.shields.io/badge/Node.js-282c3d?style=for-the-badge&logo=node.js&logoColor=339933" alt="Css">
+    <img src="https://img.shields.io/badge/Express-282c3d?style=for-the-badge&logo=express&logoColor=ffffff" alt="Javascript">
   </p>
   <p>
     <a href="https://6a292df1cb925b8a93ff3d0d--singular-narwhal-5d4796.netlify.app/"><strong>🚀 Live Demo</strong></a>
